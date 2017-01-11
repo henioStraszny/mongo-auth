@@ -1,0 +1,1 @@
+db.auth('jacek', 'qwerty1234')

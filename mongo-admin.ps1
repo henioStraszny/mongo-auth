@@ -1,0 +1,1 @@
+Start-Process mongo.exe "admin -u jacek -p qwerty1234"

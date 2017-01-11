@@ -1,0 +1,1 @@
+Start-Process mongod.exe "--config D:/Sources/mongo-auth/mongo-auth-db.conf --smallfiles"
